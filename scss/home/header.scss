@@ -1,0 +1,10 @@
+.banner {
+  max-width: $banner-footer-width;
+  height: $banner-height;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: rgba(0, 0, 0, 0.5);
+  background-image: url(../images/hero.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: -80px auto 0 auto;
+}

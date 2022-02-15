@@ -1,0 +1,30 @@
+nav {
+  font-family: myfirstfont;
+  src: url(../../fonts/GillSans.ttc);
+  max-width: $site-width;
+  height: 80px;
+  margin: 0 auto;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+  position: relative;
+  z-index: 99;
+  border-bottom: 2px solid $site-white;
+
+  .logo {
+    width: 92px;
+    height: 42px;
+    color: $site-white;
+  }
+
+  .links {
+    a {
+      text-decoration: none;
+      color: $site-white;
+    }
+    span {
+      color: $site-white;
+      margin: 0 20px;
+    }
+  }
+}
