@@ -2,4 +2,4 @@
 
 https://in-info-web4.informatics.iupui.edu/~jaydawso/homework-three/
 
-HW3 Assignment
+This assignment was about re-making a homepage for travel fly
